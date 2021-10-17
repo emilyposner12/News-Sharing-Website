@@ -1,0 +1,98 @@
+input[type=submit]{
+    padding: 4px 11px;
+    margin-left: 10px;
+    background: #ccebff;
+    border-radius: 60px;
+    color: #202174;
+    height: 25px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    font-family: sans-serif;
+    border: none;
+}
+body{
+    margin-left: 4%;
+}
+input[type=text]{
+    height: 8vh;
+    min-width: 35vh;
+    font-size: 16px;
+    color: #202174;
+    border-radius: 10px;
+    background: white;
+    border: 0.5px solid #6078ea;
+    box-sizing: border-box;
+}
+input[type=text]#password{
+   color: white;
+}
+#button{
+    padding: 4px 11px;
+    margin-left: 10px;
+    background: #ccebff;
+    border-radius: 60px;
+    color: #202174;
+    height: 20px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    font-family: sans-serif;
+    border: none;
+}
+
+#text{
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    margin-left: 15px;
+    font-family: sans-serif;
+}
+html{
+    background-image: linear-gradient(#44dd84, #7f8dd3);
+}
+p{
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 15px;
+    font-family: sans-serif;
+    margin-block-start: 0.3em;
+    margin-block-end: 0.4em;
+}
+b{
+    font-family: sans-serif;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+}
+h4{
+    font-family: sans-serif;
+    color: white;
+    font-size: 26px;
+    font-weight: bold;
+    margin-block-start: 0.5em;
+    margin-block-end: 0.5em;
+}
+h1{
+    font-family: sans-serif;
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    margin-block-start: 0.3em;
+    margin-block-end: 0.3em;
+}
+h2{
+    font-family: sans-serif;
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    margin-block-start: 0.2em;
+    margin-block-end: 0.2em;
+}
+label {
+    font-family: sans-serif;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}

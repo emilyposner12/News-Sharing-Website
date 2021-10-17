@@ -1,0 +1,12 @@
+<?php
+
+// Content of database.php
+
+$mysqli = new mysqli('localhost', 'root', 'Timmy11!', 'simpleNewsSite');
+
+if($mysqli->connect_errno) {
+	printf("Connection Failed: %s\n", $mysqli->connect_error);
+	exit;
+}
+
+?>
